@@ -6,15 +6,14 @@
 
 
 ## Architecture : 
-######it's Bank system build using **oop-java**  we use pinary files
-to store Data .
+######it's Bank system build using **oop-java**  we use pinary files to store Data.
 
-######we have Packages :
-* MainArchitecture
-	- it have Classes of **Employees** , **Tellers** , ** Customers** .. etc
-* Management 
+######Packages :
+* **MainArchitecture**
+	- it have Classes of **Employees** , **Tellers** , **Customers** .. etc
+* **Management** 
 	- it have Classes of **Login** , **logs** , **FileManagement** ..etc
-* GUI
+* **GUI**
 	- have classes Gui  such as **Panals** , **Labals** , **JFrams** ...etc
 
 #####check **ClassDigram** Folder to show **ClassDigram**
